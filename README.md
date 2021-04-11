@@ -5,7 +5,8 @@ I'm Vlad Kuznetsov, a 3rd-year student at Saint-Petersburg, purshing a bachelor'
 Currently studying in [ITMO University](https://en.itmo.ru/)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:vladrus113@gmail.com)](mailto:vladrus113@gmail.com)
-<img src="https://img.shields.io/badge/-YandexMail-c14438?style=plastic&logo=Yandex&logoColor=white&link=mailto:vladrus13rus@yandex.ru"/>
+[![Yandex Badge](https://img.shields.io/badge/-YandexMail-c14438?style=plastic&logo=Yandex&logoColor=white&link=mailto:vladrus13rus@yandex.ru)](mailto:vladrus13rus@yandex.ru)
+[![Telegram Badge](https://badges.aleen42.com/src/telegram.svg)](https://t.me/vladrus13)
 <img src="https://img.shields.io/github/followers/vladrus13?style=social"/>
 
 #### Languages:
