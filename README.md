@@ -2,6 +2,8 @@
 
 I'm Vlad Kuznetsov, a 3rd-year student at Saint-Petersburg, purshing a bachelor's degree in Computer Science.
 
+[CV](https://vladrus13.github.io/cv/cv.pdf)
+
 Currently studying in [ITMO University](https://en.itmo.ru/)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:vladrus113@gmail.com)](mailto:vladrus113@gmail.com)
