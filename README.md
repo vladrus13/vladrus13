@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Vlad Kuznetsov, a 3rd-year student at Saint-Petersburg, purshing a bachelor's degree in Computer Science.
+I'm Vlad Kuznetsov, a 4rd-year student at Saint-Petersburg, purshing a bachelor's degree in Computer Science.
 
 [CV](https://vladrus13.github.io/cv/cv.pdf)
 
